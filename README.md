@@ -1,1 +1,1 @@
-Hello, i think I can now commit my files
+Hello, I think I can now use Github
